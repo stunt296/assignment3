@@ -1,0 +1,108 @@
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: white;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark {
+  background-color: royalblue !important;
+}
+
+.nav-link {
+  color:white !important;
+}
+
+.navbar-brand {
+  color:white !important;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.jumbotron {
+  margin-top: 50px;
+  background-image: url("https://i.imgur.com/f3xBxnU.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card {
+  position: relative;
+  top: 140px;
+  width: 200px;
+  height: 200px;
+}
+
+.form-style {
+  margin-top: 25px;
+  margin-left: 75px;
+  margin-right: 800px;
+}
+
+.list-unstyled {
+  margin-top: 150px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.list-group {
+  margin-left: 75px;
+}
+
+#repairs-row {
+  margin-left: 75px;
+  margin-top: -110px;
+}
+
+#page-header {
+  margin-left: 75px;
+  margin-top: 120px;
+}
+
+#alert1 {
+  margin-left: 75px;
+  margin-top: 40px;
+  width: 500px;
+  height: 100px;
+}
+
+#alert2, #alert3 {
+  margin-left: 75px;
+  margin-top:  20px;
+  width: 500px;
+  height: 100px;
+}
+
+#group1, #group2, #group3 {
+  margin-top: 40px;
+  width: 500px;
+  height: 100px;
+  background-color: #fff2cc;
+}
+
+.table.table-striped {
+  margin-top: 100px;
+  margin-left: 75px;
+  width: 500px;
+  border: inset #dee2e6;
+}
+
+#contact-button {
+  margin-left: 75px;
+  margin-top: 20px;
+}
+
