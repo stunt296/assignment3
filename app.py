@@ -33,22 +33,22 @@ def reviews():
     return render_template("Reviews.html")
 
 
-@app.route('/google.html')
+@app.route('/repairs/google.html')
 def google():
     return render_template("google.html")
 
 
-@app.route('/iphone.html')
+@app.route('/repairs/iphone.html')
 def iphone():
     return render_template("iphone.html")
 
 
-@app.route('/lg.html')
+@app.route('/repairs/lg.html')
 def lg():
     return render_template("lg.html")
 
 
-@app.route('/samsung.html')
+@app.route('/repairs/samsung.html')
 def samsung():
     return render_template("samsung.html")
 
